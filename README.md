@@ -1,2 +1,3 @@
-# Adventure Game
-Adventure Game starts 2024.07.02 ( basically RPG, JS based )
+# **소개**
+
+원소의 힘으로 싸우는 웹 RPG 게임
